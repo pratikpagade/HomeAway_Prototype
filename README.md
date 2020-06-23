@@ -150,7 +150,7 @@ Also, be sure to have `git` available in your PATH, `npm` might need it.
 ## Back End 
 ## Install
 
-    $ cd VacationRentals-V2/BackEnd
+    $ cd /BackEnd
     $ npm install
 
 ## Start & watch
