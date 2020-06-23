@@ -32,7 +32,9 @@ This project is a clone of HomeAway (www.homeaway.com). Developed purely for <b>
   
 ### Basic Architecture Diagram
 
-![kafka_architecture 1]
+
+![1](https://user-images.githubusercontent.com/43128441/85477675-9f7d2e80-b56f-11ea-95dd-ec766a270441.png)
+
 
 
 
@@ -42,25 +44,32 @@ This project is a clone of HomeAway (www.homeaway.com). Developed purely for <b>
 
 Starter Page
 
+<img width="1440" alt="2" src="https://user-images.githubusercontent.com/43128441/85477777-d4898100-b56f-11ea-9b84-3a085ae4ffc5.png">
+
+
 
 
 
 Landing Page
+<img width="1440" alt="3" src="https://user-images.githubusercontent.com/43128441/85477855-fd117b00-b56f-11ea-8209-517de79c5f57.png">
 
 
 
 
 Search Places
+<img width="1440" alt="4" src="https://user-images.githubusercontent.com/43128441/85477897-0e5a8780-b570-11ea-8f87-65eea2850a8f.png">
 
 
 
 
 Places Description
+<img width="1440" alt="5" src="https://user-images.githubusercontent.com/43128441/85477963-321dcd80-b570-11ea-8634-ce1eee23d631.png">
 
 
 
 
 Trips Board
+<img width="1440" alt="6" src="https://user-images.githubusercontent.com/43128441/85477997-49f55180-b570-11ea-8a5d-b5955ece70fb.png">
 
 
 
@@ -68,19 +77,22 @@ Trips Board
 ## Owner Module
 
 ### Owner Home Page
+<img width="1440" alt="7" src="https://user-images.githubusercontent.com/43128441/85478028-55e11380-b570-11ea-9563-cf2a07b1f9eb.png">
 
 
 
 
 ### Owner Postings Page
-
+<img width="1440" alt="8" src="https://user-images.githubusercontent.com/43128441/85478074-698c7a00-b570-11ea-91d0-2e1a960bc758.png">
 
 
 
 ### Add Property Page
+![9](https://user-images.githubusercontent.com/43128441/85478085-6db89780-b570-11ea-9b3d-8f0b57968a14.png)
 
+![10](https://user-images.githubusercontent.com/43128441/85478155-92147400-b570-11ea-9d0a-55cd32bc6196.png)
 
-
+![11](https://user-images.githubusercontent.com/43128441/85478204-a8223480-b570-11ea-8621-7fbe38d364f7.png)
 
 
 
